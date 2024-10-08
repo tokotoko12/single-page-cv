@@ -10,4 +10,6 @@
   - 基本的なスタイリング
   - レスポンシブデザイン
   - ファビコンとメタタグの実装
+ 
+https://roadmap.sh/projects/single-page-cv
 
